@@ -1,99 +1,74 @@
-# Installing VIPRE on a New Computer Using a Product Key
+# How to Install CCleaner Pro on a New or Second PC with a License Key: Step-by-Step Activation Guide
 
-If you've already purchased VIPRE Antivirus and need to install it on a new computer, this guide walks you through the entire process. With your product key code in hand, you’ll be able to download, install, and activate VIPRE quickly and securely.
+If you've recently purchased CCleaner Pro or Professional Plus and are wondering how to install it on a new PC or a second computer, you're in the right place. Whether you're setting up a fresh machine or expanding your use to multiple devices, this guide will show you how to install CCleaner with a license key and successfully activate it without confusion.
 
-
-## 1. Prerequisites Before Installation
-
-Before starting the installation, ensure the following:
-
-- You have a valid VIPRE product key.
-- Your new computer meets the minimum system requirements for VIPRE.
-- The computer is connected to the internet.
-- You have administrative rights on the computer.
-- All existing antivirus or security software has been completely uninstalled to prevent software conflicts.
+This step-by-step tutorial will walk you through downloading, installing, and activating CCleaner Pro using your existing license. We’ll also cover important tips for users who want to install CCleaner Professional Plus or share the license on another computer.
 
 
+## Download and Activate CCleaner Pro on a Second PC: Easy License Key Installation Guide
 
-## 2. Remove Any Existing Antivirus Software
+Many users want to **install CCleaner Pro on a second computer** or even on a brand-new PC. CCleaner Pro offers powerful optimization tools, real-time monitoring, automatic updates, and premium support—making it a must-have for keeping multiple systems running smoothly. If your license supports multiple installations (as in CCleaner Professional Plus), you can take full advantage of it across your home or office PCs.
 
-VIPRE may not install or operate properly if other antivirus programs are still on the system. To uninstall previous antivirus software:
+### Step 1: Download CCleaner Pro with License Key Compatibility
 
-1. Open the **Control Panel**.
-2. Click on **Programs and Features** (or **Add or Remove Programs**).
-3. Locate and select the installed antivirus software.
-4. Click **Uninstall** and follow the prompts.
-5. Restart the computer after the removal is complete.
+To begin, you need to **download CCleaner Pro with license key compatibility**. Make sure you’re downloading the version that matches your purchased license—either CCleaner Pro or CCleaner Professional Plus. You can find the official installer by visiting the official CCleaner website or from the confirmation email you received at purchase.
 
+> **Tip:** Avoid downloading from third-party sites to prevent malware or incorrect versions.
 
 
-## 3. Download the VIPRE Installer
+### Step 2: Install CCleaner on Your New or Second PC
 
-To get the correct installer:
+Once you have the setup file:
 
-1. Launch your web browser.
-2. Go to the official VIPRE website or use the download link provided in your purchase confirmation email.
-3. Select the version of VIPRE you purchased (such as VIPRE Advanced Security or VIPRE Antivirus Plus).
-4. Click **Download** and save the installer file to your computer.
+1. **Locate the Installer File:** This is usually in your Downloads folder. It will be named something like `ccsetup.exe`.
+2. **Double-Click the File:** This will begin the installation process.
+3. **Follow On-Screen Prompts:** Choose your preferred language and installation options.
+4. **Complete Installation:** Click "Install" and wait for the process to finish.
 
-
-## 4. Run the Installer and Install VIPRE
-
-Once the installer is downloaded:
-
-1. Navigate to your **Downloads** folder or the location where the file was saved.
-2. Double-click the installer file to begin the installation.
-3. If a User Account Control (UAC) prompt appears, click **Yes** to continue.
-4. Follow the setup instructions:
-   - Choose your preferred language.
-   - Accept the License Agreement.
-   - Select the installation folder or use the default option.
-   - Click **Install** to begin the process.
-5. Wait for the installation to complete. This may take a few minutes.
+Whether you're trying to **install CCleaner on another computer** or a **brand new PC**, the installation steps remain the same.
 
 
-## 5. Activate VIPRE Using Your Product Key Code
+### Step 3: Enter Your CCleaner License Key
 
-After installation is complete:
+After installing CCleaner, it will launch in Free version mode by default. To unlock the Pro features, you need to **enter your CCleaner license key**:
 
-1. Launch VIPRE from your desktop or Start Menu.
-2. You will be prompted to activate the software.
-3. Select **Enter a Product Key** or similar activation option.
-4. Carefully type in your product key exactly as it appears.
-5. Click **Activate**.
+1. Open CCleaner.
+2. Click on **“Options”** in the left menu.
+3. Go to the **“About”** tab.
+4. Click on **“Upgrade to Pro”** (or “Enter License Key” if available).
+5. Input your **Name and License Key** exactly as they appear in your purchase confirmation.
+6. Click **“Register”** or **“Activate”**.
 
-If the product key is valid, VIPRE will complete the activation and connect to the server to verify the license.
-
-
-
-## 6. Perform First Update and System Scan
-
-To ensure your computer is fully protected:
-
-1. Open VIPRE and go to the **Update** tab.
-2. Click **Check for Updates** to download the latest virus definitions.
-3. Once updated, navigate to the **Scan** section.
-4. Choose either **Quick Scan** or **Full Scan** to scan your system.
-5. Allow the scan to complete and take appropriate action if threats are found.
+If entered correctly, your software will now be upgraded to CCleaner Pro or CCleaner Professional Plus.
 
 
+### Step 4: Activate CCleaner on Multiple Devices (If Allowed)
 
-## 7. Configure Real-Time Protection and Scheduled Scans
+If you have a license for multiple devices (as with CCleaner Professional Plus), you can repeat the installation and activation steps on another computer. This means you can **install CCleaner Pro on a second computer** using the same license key—provided your license supports it.
 
-To optimize your security setup:
-
-- Enable **Real-Time Protection** so VIPRE monitors your system continuously.
-- Go to the **Schedule** tab to set up automatic scans on a daily or weekly basis.
-- Configure update settings so VIPRE stays current with the latest threat definitions.
+> **Reminder:** You must use the same license key and registered name for activation on each PC. Check your license agreement to ensure you're within the allowed number of devices.
 
 
+## Troubleshooting Activation Issues
 
-## 8. Final Steps and Tips
+If you're having trouble with the activation process, here are a few common issues and solutions:
 
-- Restart your computer after setup if prompted.
-- Make a note of your product key and keep it in a safe place.
-- Ensure VIPRE starts with Windows to provide ongoing protection.
+* **Incorrect License Details:** Double-check that you’ve entered the license key and name exactly as provided.
+* **Expired License:** Ensure your license is still valid.
+* **Exceeded Device Limit:** If you've reached your license limit, deactivate it on an old device before using it on a new one.
+
+For more help, consult CCleaner’s customer support.
 
 
+## Final Tips on How to Activate CCleaner License Key Smoothly
 
-By following this guide, you can easily reinstall or transfer VIPRE Antivirus to a new computer using your existing product key. Proper setup ensures your system stays protected against viruses, malware, and other online threats.
+* Keep a copy of your license key stored safely for future installations.
+* Always download the latest version of CCleaner for optimal performance and security.
+* If you change your PC frequently, consider buying a multi-PC license like CCleaner Professional Plus.
+
+
+## Conclusion
+
+Now that you know how to **install CCleaner on a new PC** or **install CCleaner Pro on 2nd computer**, you can keep all your devices clean and optimized. Just make sure you **enter CCleaner license key** correctly and always **download CCleaner Pro with license key support** from official sources. Whether you're a single-user or managing multiple devices, CCleaner Pro ensures your systems remain fast, secure, and clutter-free.
+
+By following this guide on **how to activate CCleaner license key**, you can confidently set up CCleaner on any new or second PC without hassle.
